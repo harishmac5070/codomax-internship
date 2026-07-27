@@ -1,0 +1,26 @@
+name="Harishma"
+age=21
+cgpa=8.2
+intern=True
+print(name)
+print(age)
+#type of variable
+print(type(name))
+print(type(age))
+print(type(cgpa))
+print(type(intern))
+
+a=5
+b=10
+#variable operation
+print(a-b)
+print(a+b)
+print(b/a)
+print(a*b)
+#average marks
+maths=80
+sci=60
+english=75
+average=(maths+sci+english)/3
+print(average)
+
